@@ -10,15 +10,16 @@ A fully offline voice chat assistant running on a Raspberry Pi 5. No cloud. No A
 
 ## Demo
 
-![System booting up — Whisper loading, earbuds in frame](image and video/IMG_5549.jpg)
+![System booting up](https://raw.githubusercontent.com/pradhangagan/chatbot-v1/main/image%20and%20video/IMG_5549.jpg)
+*System startup — Whisper loading, earbuds visible in frame*
 
-*System startup — Whisper model loading, earbuds sitting in front of the Pi*
+![Whisper model loading](https://raw.githubusercontent.com/pradhangagan/chatbot-v1/main/image%20and%20video/IMG_5550.jpg)
+*Whisper model parameters initializing on first run*
 
-![Full pipeline working — terminal output](assets/demo_terminal.jpeg)
+![Full pipeline working](https://raw.githubusercontent.com/pradhangagan/chatbot-v1/main/image%20and%20video/WhatsApp%20Image%202026-04-20%20at%203.30.09%20PM.jpeg)
+*"What is the capital of Australia?" — transcribed, answered, spoken back through earbuds*
 
-*Asking "What is the capital of Australia?" — transcribed by Whisper, answered by llama3.2:3b, spoken back through earbuds*
-
-🎬 **[Watch the full demo video](assets/demo_video.mp4)**
+🎬 **[Watch the full demo video](https://github.com/pradhangagan/chatbot-v1/raw/main/image%20and%20video/WhatsApp%20Video%202026-04-20%20at%203.29.46%20PM.mp4)**
 
 ---
 
