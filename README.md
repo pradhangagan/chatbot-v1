@@ -19,7 +19,7 @@ A fully offline voice chat assistant running on a Raspberry Pi 5. No cloud. No A
 ![Full pipeline working](https://raw.githubusercontent.com/pradhangagan/chatbot-v1/main/image%20and%20video/WhatsApp%20Image%202026-04-20%20at%203.30.09%20PM.jpeg)
 *"What is the capital of Australia?" — transcribed, answered, spoken back through earbuds*
 
-🎬 **[Watch the full demo video](https://github.com/pradhangagan/chatbot-v1/raw/main/image%20and%20video/WhatsApp%20Video%202026-04-20%20at%203.29.46%20PM.mp4)**
+🎬 [![Demo Video](https://raw.githubusercontent.com/pradhangagan/chatbot-v1/main/image%20and%20video/WhatsApp%20Image%202026-04-20%20at%203.30.09%20PM.jpeg)](https://youtu.be/Et2kurH2uRQ)
 
 ---
 
