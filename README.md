@@ -4,7 +4,7 @@
 
 A fully offline voice chat assistant running on a Raspberry Pi 5. No cloud. No API keys. No wires for audio. Just a Pi, a pair of Bluetooth earbuds, and some patience.
 
-> 📖 **Read the full story behind this project on Medium:** [YOUR_MEDIUM_ARTICLE_LINK]
+> 📖 **Read the full story behind this project on Medium:** [I Built a Fully Local AI Voice Assistant on a Raspberry Pi 5](https://medium.com/@pradhangagan/i-built-a-fully-local-ai-voice-assistant-on-a-raspberry-pi-5-using-bluetooth-earbuds-no-mic-no-691f72389c37)
 
 ---
 
@@ -230,3 +230,7 @@ MIT — do whatever you want with it.
 ---
 
 *Built by [@pradhangagan](https://github.com/pradhangagan) · Raspberry Pi 5 · Ubuntu 24.04 LTS · April 2026*
+
+---
+
+📖 [Read the full article on Medium](https://medium.com/@pradhangagan/i-built-a-fully-local-ai-voice-assistant-on-a-raspberry-pi-5-using-bluetooth-earbuds-no-mic-no-691f72389c37) · 🎬 [Watch Demo on YouTube](https://youtu.be/Et2kurH2uRQ)
