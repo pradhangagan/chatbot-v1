@@ -10,7 +10,7 @@ A fully offline voice chat assistant running on a Raspberry Pi 5. No cloud. No A
 
 ## Demo
 
-![System booting up — Whisper loading, earbuds in frame](assets/boot_screen.jpeg)
+![System booting up — Whisper loading, earbuds in frame](image and video/IMG_5549.jpg)
 
 *System startup — Whisper model loading, earbuds sitting in front of the Pi*
 
