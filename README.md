@@ -14,7 +14,7 @@ A fully offline voice chat assistant running on a Raspberry Pi 5. No cloud. No A
 *System startup — Whisper loading, earbuds visible in frame*
 
 
-🎬 **Demo Video In Youtube [![Demo Video](https://raw.githubusercontent.com/pradhangagan/chatbot-v1/main/image%20and%20video/WhatsApp%20Image%202026-04-20%20at%203.30.09%20PM.jpeg)](https://youtu.be/Et2kurH2uRQ) **
+🎬 **Demo Video In Youtube** [![Demo Video](https://raw.githubusercontent.com/pradhangagan/chatbot-v1/main/image%20and%20video/WhatsApp%20Image%202026-04-20%20at%203.30.09%20PM.jpeg)](https://youtu.be/Et2kurH2uRQ) 
 
 ---
 
